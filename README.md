@@ -1,3 +1,12 @@
+# Referência
+- https://astro-paper.pages.dev/
+- https://github.com/satnaing/astro-paper
+- https://github.com/steipete/steipete.me
+
+- Para rodar: $ pnpm run dev
+
+
+
 # AstroPaper 📄
 
 ![AstroPaper](public/astropaper-og.jpg)
