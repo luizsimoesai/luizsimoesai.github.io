@@ -5,6 +5,11 @@
 
 - Para rodar: $ pnpm run dev
 
+- https://luizsimoesai.github.io/
+
+A partir de agora, toda vez que fizer git push origin main, o blog será atualizado automaticamente.
+
+
 
 
 # AstroPaper 📄
